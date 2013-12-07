@@ -1,0 +1,3 @@
+module NagiosBlade
+  VERSION = "0.0.1"
+end
