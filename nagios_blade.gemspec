@@ -23,4 +23,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "pry"
 
   spec.add_dependency "nagios-plugin"
+  spec.add_dependency "nokogiri"
 end

@@ -1,0 +1,6 @@
+#! /usr/bin/env ruby
+
+require 'nagios_blade'
+
+plugin = NagiosBlade::Plugin.new(shortname: 'Blade::Hashrate')
+plugin.run
